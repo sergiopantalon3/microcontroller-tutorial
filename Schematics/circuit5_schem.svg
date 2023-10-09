@@ -29,8 +29,8 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="2.1178003"
-     inkscape:cx="526.48968"
-     inkscape:cy="299.36723"
+     inkscape:cx="160.07175"
+     inkscape:cy="190.29179"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -3958,14 +3958,6 @@
        y2="87.6096"
        id="line1197" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="87.6096"
-     fill="black"
-     stroke-width="0"
-     cx="190.979"
-     id="circle1201" />
   <g
      partID="854157170"
      id="g1205">
@@ -4122,14 +4114,6 @@
        y2="116.41"
        id="line1247" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="116.41"
-     fill="black"
-     stroke-width="0"
-     cx="39.7795"
-     id="circle1251" />
   <g
      partID="854161660"
      id="g1255">
@@ -4169,14 +4153,6 @@
        y2="116.41"
        id="line1261" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="116.41"
-     fill="black"
-     stroke-width="0"
-     cx="39.7795"
-     id="circle1265" />
   <g
      partID="854162790"
      id="g1269">
@@ -4203,14 +4179,6 @@
        y2="274.707"
        id="line1271" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="116.41"
-     fill="black"
-     stroke-width="0"
-     cx="75.7795"
-     id="circle1275" />
   <g
      partID="854164390"
      id="g1279">
@@ -4224,14 +4192,6 @@
        y2="151.447"
        id="line1277" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="151.447"
-     fill="black"
-     stroke-width="0"
-     cx="190.98"
-     id="circle1281" />
   <g
      partID="854164750"
      id="g1285">
@@ -4258,14 +4218,6 @@
        y2="274.707"
        id="line1287" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="151.447"
-     fill="black"
-     stroke-width="0"
-     cx="140.58"
-     id="circle1291" />
   <g
      partID="854166320"
      id="g1295">
@@ -4370,14 +4322,6 @@
        y2="151.447"
        id="line1321" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="151.447"
-     fill="black"
-     stroke-width="0"
-     cx="140.58"
-     id="circle1325" />
   <g
      partID="854166910"
      id="g1329">
@@ -4404,14 +4348,6 @@
        y2="274.707"
        id="line1331" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="116.41"
-     fill="black"
-     stroke-width="0"
-     cx="75.7795"
-     id="circle1335" />
   <g
      partID="854167900"
      id="g1339">
@@ -4425,14 +4361,6 @@
        y2="151.447"
        id="line1337" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="151.447"
-     fill="black"
-     stroke-width="0"
-     cx="140.58"
-     id="circle1341" />
   <g
      partID="854167740"
      id="g1345">
@@ -4563,14 +4491,6 @@
        y2="87.6096"
        id="line1379" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="87.6096"
-     fill="black"
-     stroke-width="0"
-     cx="190.979"
-     id="circle1383" />
   <g
      partID="854175410"
      id="g1387">
@@ -4597,14 +4517,6 @@
        y2="80.3489"
        id="line1389" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="138.01"
-     fill="black"
-     stroke-width="0"
-     cx="219.779"
-     id="circle1393" />
   <g
      partID="854175540"
      id="g1397">
@@ -4618,14 +4530,6 @@
        y2="138.01"
        id="line1395" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="138.01"
-     fill="black"
-     stroke-width="0"
-     cx="219.779"
-     id="circle1399" />
   <g
      partID="854175640"
      id="g1403">
@@ -4691,14 +4595,6 @@
        y2="151.447"
        id="line1417" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="151.447"
-     fill="black"
-     stroke-width="0"
-     cx="190.98"
-     id="circle1421" />
   <g
      partID="854176130"
      id="g1425">
@@ -4725,35 +4621,6 @@
        y2="274.797"
        id="line1427" />
   </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="166.81"
-     fill="black"
-     stroke-width="0"
-     cx="219.779"
-     id="circle1431" />
-  <g
-     partID="854176320"
-     id="g1435">
-    <line
-       stroke="#404040"
-       stroke-linecap="round"
-       x2="219.779"
-       stroke-width="0.699998"
-       y1="274.797"
-       x1="219.75"
-       y2="166.81"
-       id="line1433" />
-  </g>
-  <circle
-     stroke="none"
-     r="1.44"
-     cy="166.81"
-     fill="black"
-     stroke-width="0"
-     cx="219.779"
-     id="circle1437" />
   <g
      partID="854176330"
      id="g1441">
@@ -5212,4 +5079,68 @@
       </g>
     </g>
   </g>
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="80.3489"
+     fill="#000000"
+     stroke-width="0"
+     cx="190.94901"
+     id="circle1201" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="80.3489"
+     fill="#000000"
+     stroke-width="0"
+     cx="219.871"
+     id="circle1201-6" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="190.963"
+     id="circle1201-7" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="219.7645"
+     id="circle1201-6-3" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="39.816898"
+     id="circle1201-65" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="75.690796"
+     id="circle1201-6-6" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="104.657"
+     id="circle1201-3" />
+  <circle
+     stroke="none"
+     r="1.4400001"
+     cy="274.797"
+     fill="#000000"
+     stroke-width="0"
+     cx="140.5515"
+     id="circle1201-6-9" />
 </svg>
